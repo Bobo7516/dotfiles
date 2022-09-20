@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = boris@gmail.com
+	name = Boris Bruel
